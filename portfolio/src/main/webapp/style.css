@@ -7,3 +7,10 @@
 #greeting-container {
   margin-top: 20px;
 }
+
+//right card class
+.size1 {
+  height: 50px;
+  padding: 10px;
+  width: 50px;
+}
